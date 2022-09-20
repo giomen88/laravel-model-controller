@@ -10855,6 +10855,7 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-.movie.card {
-  flex-basis: 50%;
+.card {
+  margin: 10px;
+  flex-basis: calc(50% - 20px);
 }
